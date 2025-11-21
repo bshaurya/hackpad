@@ -5,7 +5,7 @@ a 4-key macropad that looks like a cricket ball because why not
 ![Top View](assets/topview.png)
 ![Side View](assets/sideview.png)
 ![PCB](assets/pcb.png)
-![Schematic](schematic.png)
+![Schematic](assets/schematic.png)
 
 ## What is this
 
