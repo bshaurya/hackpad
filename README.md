@@ -34,6 +34,16 @@ It's running KMK so you just edit `kmk/main.py` and save it to the CIRCUITPY dri
 
 The code's pretty straightforward if you want to change the keys or add macros. Check out the [KMK docs](https://github.com/KMKfw/kmk_firmware) for more info.
 
+## BOM
+
+4x Cherry MX Switches
+2x SK6812 MINI LEDs
+1x XIAO RP2040
+4x Blank DSA Keycaps
+4x M3x16 Bolts
+4x M3 Heatset Inserts
+~100g PLA
+
 ## Building one
 
 All the files are here:
